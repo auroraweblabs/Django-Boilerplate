@@ -9,7 +9,7 @@ MEDIA_ROOT = BASE_DIR / 'media'
 STATICFILES_DIRS = [
     BASE_DIR/'mystatic', ]
 
-SECRET_KEY = 'su8woknwup2lpw)5(28f^!7@7__lwrmx9yz=xi1g-^rij*f7!%'
+SECRET_KEY = 'YOUR AWESOME SECRET KEY HERE'
 
 DEBUG = True
 

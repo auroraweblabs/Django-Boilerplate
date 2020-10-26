@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/cosmo/.envs/test/bin/python",
+    "python.pythonPath": "/path/to/your/env/here",
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true
 }
